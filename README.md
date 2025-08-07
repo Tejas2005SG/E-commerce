@@ -121,9 +121,3 @@ NODE_ENV=development
   <li>Adding Filter option for better user experience</li>
 </ol>
 
-
-
-
-
-
->>>>>>> 0694370f2eb8d79a9648ed7229cd47e5a4419fdb
